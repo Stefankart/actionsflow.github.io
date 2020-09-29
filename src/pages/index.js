@@ -1,0 +1,28 @@
+import React from "react"
+
+import Layout from "../components/Layout"
+import SEO from "../components/SEO"
+import ValueProp from "../components/ValueProp"
+import Example from "../components/Example"
+import ProductBenefits from "../components/ProductBenefits"
+import ProductFeatures from "../components/ProductFeatures"
+// import Testimonials from "../components/Testimonials"
+import CallToAction from "../components/CallToAction"
+
+const IndexPage = () => (
+  <Layout>
+    <SEO
+      title="Actionsflow - Connect your APIs, automate your work for developers"
+      description="The best IFTTT/Zapier free alternative for developers, Actionsflow helps you to automate workflows. With Actionsflow, you can connect your favorite apps, data, and APIs, receive notifications of actions as they occur, sync files, collect data, and more."
+      isSpecificTitle
+    />
+    <ValueProp />
+    <Example />
+    <ProductBenefits />
+    <ProductFeatures />
+    {/* <Testimonials /> */}
+    <CallToAction />
+  </Layout>
+)
+
+export default IndexPage
