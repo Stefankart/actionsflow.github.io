@@ -9,7 +9,7 @@ const ValueProp = props => {
           <h1>Automate Workflows for Developers based on Github Actions</h1>
           <p className="main-subtitle">
             Connect your favorite apps, data, and APIs, do any tasks as they
-            occur. It's the best IFTTT/Zapier free alternative for developers.
+            occur. It's a free IFTTT/Zapier alternative for developers.
           </p>
           <a href="/docs/">
             <Button label="Get Started" />

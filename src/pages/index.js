@@ -13,7 +13,7 @@ const IndexPage = () => (
   <Layout>
     <SEO
       title="Actionsflow - Connect your APIs, automate your work for developers"
-      description="The best IFTTT/Zapier free alternative for developers, Actionsflow helps you to automate workflows. With Actionsflow, you can connect your favorite apps, data, and APIs, receive notifications of actions as they occur, sync files, collect data, and more."
+      description="A free IFTTT/Zapier alternative for developers, Actionsflow helps you to automate workflows. With Actionsflow, you can connect your favorite apps, data, and APIs, receive notifications of actions as they occur, sync files, collect data, and more."
       isSpecificTitle
     />
     <ValueProp />

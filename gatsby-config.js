@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Actionsflow`,
-    description: `The best IFTTT/Zapier free alternative for developers to automate your workflows based on Github actions`,
+    description: `A free IFTTT/Zapier alternative for developers to automate your workflows based on Github actions`,
     siteUrl: `https://actionsflow.github.io`,
     author: `@theowenyoung`,
   },
