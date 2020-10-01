@@ -36,6 +36,11 @@ const Header = ({ siteTitle }) => {
               <a href="https://actionsflow.github.io/docs/">Docs</a>
             </li>
             <li className={navItemClasses}>
+              <a href="https://github.com/actionsflow/awesome-actionsflow">
+                Workflows
+              </a>
+            </li>
+            <li className={navItemClasses}>
               <a href="https://actionsflow.github.io/docs/triggers/#triggers-list">
                 Triggers
               </a>
@@ -59,9 +64,7 @@ const Header = ({ siteTitle }) => {
                 Github
               </a>
             </li>
-            <li className={navItemClasses}>
-              <a href="/docs/about/">About</a>
-            </li>
+
             <li className={`${navItemClasses} nav-item-bold`}>
               <a href="/docs/getting-started/">Get Started</a>
             </li>

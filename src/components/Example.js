@@ -30,7 +30,7 @@ const CodeContainer = styled.div`
 const Pre = styled.pre`
   text-align: left;
   margin: 1em 0;
-  padding: 0.5em;
+  padding: 1em;
   overflow: scroll;
 `
 
