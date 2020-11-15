@@ -63,7 +63,7 @@ const ProductFeatures = props => {
             </svg>
           </div>
           <h2>
-            <a href="https://actionsflow.github.io/docs/steps/">
+            <a href="https://actionsflow.github.io/docs/webhook/">
               Use Webhook to Connect with any 3rd party Service
             </a>
           </h2>
