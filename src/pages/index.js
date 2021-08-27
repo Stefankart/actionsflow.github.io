@@ -8,6 +8,7 @@ import ProductBenefits from "../components/ProductBenefits"
 import ProductFeatures from "../components/ProductFeatures"
 // import Testimonials from "../components/Testimonials"
 import CallToAction from "../components/CallToAction"
+import AD from "../components/Ad"
 
 const IndexPage = () => (
   <Layout>
@@ -18,6 +19,7 @@ const IndexPage = () => (
     />
     <ValueProp />
     <Example />
+    <AD />
     <ProductBenefits />
     <ProductFeatures />
     {/* <Testimonials /> */}
