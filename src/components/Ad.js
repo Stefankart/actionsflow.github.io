@@ -15,12 +15,13 @@ const AD = props => {
             />
           </div>
           <b>
-            Meercode is the ultimate monitoring dashboard for your CI/CD builds.
+            Meercode is the ultimate monitoring dashboard for your GitHub
+            Actions.
           </b>
           <div>
             <sup>
-              Works with GitHub Actions, GitLab CI, Azure DevOps, Vercel, Travis
-              CI, Bitrise and Buddy.
+              It's impossible to improve what you can't measure! Get Real
+              Insights and Metrics From Your CI usage
             </sup>
           </div>
         </a>
